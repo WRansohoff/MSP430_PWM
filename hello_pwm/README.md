@@ -1,0 +1,1 @@
+PWM example for the MSP430; drive the common-cathode RGB LED on a recent G2553 Launchpad board. This example needs the green LED (P2.3) to connect to P1.6 instead; the pins are connected to the LEDs with jumpers, so you can use a short length of wire to change that.
